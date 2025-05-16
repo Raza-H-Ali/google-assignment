@@ -1,0 +1,53 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+#pic {
+    margin: auto;
+    width: 50%;
+    height: 100px;
+    text-align: center;
+}
+
+#question {
+    margin-top:  20px;
+    width: 50%;
+    margin: auto
+}
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top:5px;
+}
+.que {  
+display: block;
+ width: 100%;
+ text-align: center;
+}
+.input {
+    display: block;
+    margin: auto;
+    width: 200px;
+}
+.boos {
+    background-color: aqua;
+    display: flex;
+    /* padding: 10px; */
+   /*  justify-content: center; */
+   justify-content: space-evenly;
+    margin: auto;
+    width: 100%;
+ 
+}
+#one {
+    padding-top: 10px;
+}
+#two {
+   
+text-align: center;
+}
+#three {
+   
+
+}
